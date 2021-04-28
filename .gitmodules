@@ -1,3 +1,7 @@
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/openssl/openssl.git
+[submodule "blocknicator"]
+	path = blocknicator
+	url = git@github.com:fzs/blocknicator.git
+	branch = main
