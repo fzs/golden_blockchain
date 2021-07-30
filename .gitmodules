@@ -1,3 +1,6 @@
 [submodule "ll.c"]
 	path = ll.c
 	url = https://github.com/clehner/ll.c.git
+[submodule "blocknicator"]
+	path = blocknicator
+	url = git@github.com:fzs/blocknicator.git
