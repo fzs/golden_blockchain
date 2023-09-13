@@ -1,3 +1,6 @@
 [submodule "linked_list"]
 	path = linked_list
 	url = https://github.com/clehner/ll.c.git
+[submodule "blocknicator"]
+	path = blocknicator
+	url = git@github.com:fzs/blocknicator.git
